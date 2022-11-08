@@ -6,7 +6,7 @@
 점주용 어플과 고객용 어플로 나누어 각각 주문, 전송, 결제, 좌석 확인/주문 확인 및 이용자 분석 기능 수행하도록 파이어베이스 이용하여 구현함 <br/>
 
 # Video
-[![Video Label](http://img.youtube.com/vi/x_S11SA8ZeU/0.jpg)](https://youtu.be/x_S11SA8ZeU))<br/>
+[![Video Label](http://img.youtube.com/vi/x_S11SA8ZeU/0.jpg)](https://youtu.be/x_S11SA8ZeU)<br/>
 
 ****
 
