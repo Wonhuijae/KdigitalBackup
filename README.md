@@ -1,4 +1,4 @@
-# KdigitalBackup
+# K-Digital 트레이닝 IoT가전/스마트홈 3기
 기반 및 응용프로젝트 결과물 백업
 
 # 기반 프로젝트 (Tabell_Client.zip) <br/>
